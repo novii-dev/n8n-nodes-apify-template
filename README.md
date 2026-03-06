@@ -201,5 +201,6 @@ Community nodes built with this template:
 | **Google Search** | [n8n-nodes-google-search-scraper](https://www.npmjs.com/package/n8n-nodes-google-search-scraper) | [compass](https://apify.com/compass) |
 | **Google Maps Scraper** | [n8n-nodes-crawler-google-places](https://www.npmjs.com/package/n8n-nodes-crawler-google-places) | [apify](https://apify.com/apify) |
 | **Hypebridge Actors** | [n8n-nodes-hypebridge-actors](https://www.npmjs.com/package/n8n-nodes-hypebridge-actors) | [hypebridge](https://apify.com/hypebridge) |
+| **TikTok Scraper Ultimate** | [n8n-nodes-tiktok-scraper-ultimate](https://www.npmjs.com/package/n8n-nodes-tiktok-scraper-ultimate) | [tiktok-scraper-ultimate](https://apify.com/novi/tiktok-scraper-ultimate) |
 
 Built a node with this template? Open a PR to add it to the list!
